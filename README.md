@@ -1,2 +1,1 @@
-# Ideapol-Institute
-Ideapol Institute
+Ideapol-Institute
